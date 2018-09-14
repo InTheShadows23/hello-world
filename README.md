@@ -1,3 +1,3 @@
 # hello-world
 My first repository on Github
-I love Ladies: and :Steak:
+I love food and friends
